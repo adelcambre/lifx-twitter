@@ -1,2 +1,3 @@
 credentials.yml
 .bundle
+Gemfile.lock
