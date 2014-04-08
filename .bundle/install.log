@@ -1,0 +1,19 @@
+# Logfile created on 2014-04-07 19:00:31 -0700 by logger.rb/v1.2.7
+I, [2014-04-07T19:00:31.143294 #87854]  INFO -- : 2:  configatron (3.1.3) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/configatron-3.1.3.gemspec
+I, [2014-04-07T19:00:31.145395 #87855]  INFO -- : 3:  json (1.8.1) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/json-1.8.1.gemspec
+I, [2014-04-07T19:00:31.148592 #87858]  INFO -- : 6:  bindata (2.0.0) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/bindata-2.0.0.gemspec
+I, [2014-04-07T19:00:31.151174 #87854]  INFO -- : 2:  timers (1.1.0) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/timers-1.1.0.gemspec
+I, [2014-04-07T19:00:32.067543 #87859]  INFO -- : 7:  multipart-post (2.0.0) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/multipart-post-2.0.0.gemspec
+I, [2014-04-07T19:00:32.068316 #87859]  INFO -- : 7:  bundler (1.5.1) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/bundler-1.5.1.gemspec
+I, [2014-04-07T19:00:32.069005 #87859]  INFO -- : 7:  lifx (0.4.6.1) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/lifx-0.4.6.1.gemspec
+I, [2014-04-07T19:00:32.071358 #87852]  INFO -- : 0:  buftok (0.2.0) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/buftok-0.2.0.gemspec
+I, [2014-04-07T19:00:32.272337 #87858]  INFO -- : 6:  thread_safe (0.3.3) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/thread_safe-0.3.3.gemspec
+I, [2014-04-07T19:00:32.326026 #87855]  INFO -- : 3:  naught (1.0.0) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/naught-1.0.0.gemspec
+I, [2014-04-07T19:00:32.357787 #87854]  INFO -- : 2:  simple_oauth (0.2.0) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/simple_oauth-0.2.0.gemspec
+I, [2014-04-07T19:00:32.583849 #87857]  INFO -- : 5:  equalizer (0.0.9) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/equalizer-0.0.9.gemspec
+I, [2014-04-07T19:00:32.713203 #87852]  INFO -- : 0:  memoizable (0.4.2) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/memoizable-0.4.2.gemspec
+I, [2014-04-07T19:00:32.776124 #87859]  INFO -- : 7:  faraday (0.9.0) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/faraday-0.9.0.gemspec
+I, [2014-04-07T19:00:32.967089 #87853]  INFO -- : 1:  addressable (2.3.6) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/addressable-2.3.6.gemspec
+I, [2014-04-07T19:00:32.997326 #87856]  INFO -- : 4:  http_parser.rb (0.6.0) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/http_parser.rb-0.6.0.gemspec
+I, [2014-04-07T19:00:33.786679 #87858]  INFO -- : 6:  http (0.5.0) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/http-0.5.0.gemspec
+I, [2014-04-07T19:00:36.031272 #87855]  INFO -- : 3:  twitter (5.8.0) from /opt/boxen/rbenv/versions/2.0.0-github6/lib/ruby/gems/2.0.0/specifications/twitter-5.8.0.gemspec
